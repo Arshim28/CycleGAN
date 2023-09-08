@@ -1,0 +1,16 @@
+{
+	"learning_rate": 0.0002,
+	"epochs":50,
+	"batch_size":5,
+	"device": "cpu",
+	"cyclic_loss_coefficient":50,
+	"identity_loss_coefficient":5,
+	"loop":50,
+	"lambda":5,
+	"n_residual_blocks":6,
+	"betas":[0.5, 0.999],
+	"root_data_dir":"/media/arshim/C1D6-381C/data_cyclegan/",
+	"width":128,
+	"height":128
+
+}
